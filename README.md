@@ -24,7 +24,7 @@
 * Entregables y documentación
   + Se intentara Rmd con 'shiny'
 
-Tiempo estimado 3 semanas en horarios parciales
+Tiempo estimado 4 semanas en horarios parciales a partir de Enero
 
 *"Esto es una contribución a la banda opensource"*
 
