@@ -8,6 +8,4 @@ Contiene:
     4. Evaluación y seleccion de algoritmo
     5. Evaluación de modelo
     
-`En construcción...`
-
-'Sigue en construcción'
+...desarrollando
